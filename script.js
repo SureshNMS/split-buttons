@@ -1,5 +1,3 @@
-import {captureAction} from './shared-functions.js';
-
 (() => {
     const setDropdownClasses = (className) => {
         const dropdowns = document.getElementsByClassName(className);
